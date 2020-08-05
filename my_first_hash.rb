@@ -13,7 +13,7 @@ def shipping_manifest
   # fill that hash with key/value pairs that describe the following information: 
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings 
 mhe_manifest = {
-  "Name" => "a",
+  "whale bone corsets" => "a",
   "Age" => 30
 }
 
